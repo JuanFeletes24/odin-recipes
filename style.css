@@ -1,0 +1,83 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main-box {
+    border-radius: 3%;
+    background-color: rgb(231, 231, 231);
+    margin: auto;
+    padding: 1%;
+    width: 40%;
+}
+
+h1,
+.text {
+    text-align: center;
+}
+
+.italia {
+    width: 50%;
+    margin: auto;
+}
+
+.green {
+    background-color: rgb(1, 138, 1);
+}
+
+.red {
+    background-color: red;
+}
+
+.italian {
+    color: rgb(0, 175, 0);
+}
+
+#italians {
+    color: rgb(202, 202, 202);
+}
+
+#italian {
+    color: red;
+}
+
+.colombia {
+    width: 50%;
+    margin: auto;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red
+}
+
+.col {
+    color: rgb(207, 207, 81);
+}
+
+.om {
+    color: blue;
+}
+
+.bian {
+    color: red;
+}
+
+.mexico {
+    width: 50%;
+    margin: auto;
+}
+
+.mex {
+    color: rgb(2, 172, 2);
+}
+
+.greenmex {
+    background-color: forestgreen;
+}
